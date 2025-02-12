@@ -1,8 +1,7 @@
 "use client";
 import { useState } from "react";
 import Image from "next/image";
-import Link from "next/link";
-import LOGO from "../../../../public/Logo.png";
+import LOGO from "../../../../public/Logoo.png";
 import { Menu, X } from "lucide-react";
 import { motion } from "framer-motion";
 
