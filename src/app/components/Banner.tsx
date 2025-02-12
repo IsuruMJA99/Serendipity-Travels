@@ -5,7 +5,6 @@ import BannerImage from "../../../public/BannerImage.png";
 const Banner: React.FC = () => {
   return (
     <div className="relative w-full h-[700px] max-md:h-[500px] my-[5%]">
-     
       <Image
         src={BannerImage}
         alt="BannerImage"
