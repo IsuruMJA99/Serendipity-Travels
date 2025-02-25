@@ -94,7 +94,7 @@ export const googleReview :GoogleReview []= [
   { name: 'madusanka',
     image: img1 ,
     title: 'City Explorer Package',
-    description : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam odio dolor maxime. A. Eos corporis tenetur ipsum non, architecto quo fugit.',
+    description : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam odio dolor maxime. A. Eos corporis.',
     rating : 3,
     date:'2024/09/11'
   },
@@ -108,7 +108,7 @@ export const googleReview :GoogleReview []= [
   { name: 'kavindu madu',
     image: img1 ,
     title: 'City Explorer Package',
-    description : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam od Eos corporis tenetur ipsum non, architecto quo fugit.',
+    description : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam tenetur ipsum non, architecto quo fugit.',
     rating : 4,
     date:'2024/10/11'
   },

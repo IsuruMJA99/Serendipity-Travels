@@ -22,8 +22,6 @@ const DestinationCard: React.FC<DestinationCardProps> = ({data}) => {
           {data.location}
           
         </div>
-       
-        
       </div>
     </div>
   );
