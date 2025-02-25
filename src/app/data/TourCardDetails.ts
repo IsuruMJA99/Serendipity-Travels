@@ -84,7 +84,7 @@ export const TourCardDetails = [
 
 
 export const googleReview :GoogleReview []= [
-  { name: 'Isuru',
+  { name: 'Isuruoooooo',
     image: img1 ,
     title: 'City Explorer Package',
     description : 'Lorem ipsum dolor sit amet consectetur aliquid vero sit. Excepturi dolorum mollitia recusandae eligendi. Eos.',
