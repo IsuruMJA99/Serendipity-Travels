@@ -87,7 +87,7 @@ export const googleReview :GoogleReview []= [
   { name: 'Isuru',
     image: img1 ,
     title: 'City Explorer Package',
-    description : 'Lorem ipsum dolor sit amet consectetur aliquid vero sit. Excepturi dolorum mollitia recusandae eligendi. Eos corporis tenetur ipsum non, architecto quo fugit.',
+    description : 'Lorem ipsum dolor sit amet consectetur aliquid vero sit. Excepturi dolorum mollitia recusandae eligendi. Eos.',
     rating : 5,
     date:'2024/03/11'
   },
